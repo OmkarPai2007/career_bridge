@@ -163,5 +163,7 @@ npm run build
 
 Omkar Pai
 
-💻 GitHub: https://github.com/OmkarPai2007
-💼 LinkedIn: Add Your LinkedIn Link Here
+- 💻 GitHub: https://github.com/OmkarPai2007
+- 💼 LinkedIn: https://www.linkedin.com/in/omkar-pai-96b158372
+
+---
