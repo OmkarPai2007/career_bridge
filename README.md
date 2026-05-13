@@ -10,10 +10,7 @@ This project was developed as part of my Web Development Internship at Sqrock IT
 
 # 🚀 Live Demo
 
-🔗 Vercel Deployment Link:  
-- https://career-bridge-pink.vercel.app/
-- https://career-bridge-git-main-omkarpai2007s-projects.vercel.app/
-- https://career-bridge-in49ctq84-omkarpai2007s-projects.vercel.app/
+🔗 Vercel Deployment Link:  https://career-bridge-pink.vercel.app/
 
 ---
 
