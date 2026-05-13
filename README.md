@@ -119,7 +119,7 @@ careerbridge/
 
 This project is hosted on Vercel.
 
-### 🌐 Deploy Steps
+## 🌐 Deploy Steps
 1. Push project to GitHub
 2. Open Vercel
 3. Import GitHub Repository
@@ -128,7 +128,7 @@ This project is hosted on Vercel.
 
 ---
 
-## ⚙️ Setup Instructions
+# ⚙️ Setup Instructions
 
 ### Clone Repository
 ```bash
@@ -152,14 +152,15 @@ http://localhost:5173/
 
 ---
 
-📦 Build for Production
+# 📦 Build for Production
 ```bash
 npm run build
 ```
 
 ---
 
-👨‍💻 Author
+# 👨‍💻 Author
+
 Omkar Pai
 
 💻 GitHub: https://github.com/OmkarPai2007
