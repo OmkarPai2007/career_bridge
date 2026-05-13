@@ -111,39 +111,51 @@ careerbridge/
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
 
 ---
 
-🚀 Deployment
+# 🚀 Deployment
 
 This project is hosted on Vercel.
 
-🌐 Deploy Steps
-Push project to GitHub
-Open Vercel
-Import GitHub Repository
-Click Deploy
-Your app will be live 🚀
+### 🌐 Deploy Steps
+1. Push project to GitHub
+2. Open Vercel
+3. Import GitHub Repository
+4. Click Deploy
+5. Your app will be live 🚀
 
 ---
 
 ## ⚙️ Setup Instructions
 
 ### Clone Repository
+```bash
 git clone https://github.com/your-github-username/careerbridge.git
-Install Dependencies
+```
+
+### Install Dependencies
+```bash
 npm install
-Run Project
+```
+
+### Run Project
+```bash
 npm run dev
+```
 
 Project will run at:
-
+```bash
 http://localhost:5173/
+```
 
 ---
 
 📦 Build for Production
+```bash
 npm run build
+```
 
 ---
 
